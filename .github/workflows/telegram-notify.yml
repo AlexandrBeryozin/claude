@@ -1,0 +1,43 @@
+name: Telegram notify on signals-log update
+
+on:
+  push:
+    paths:
+      - 'signals-log.md'
+  workflow_dispatch: {}
+
+jobs:
+  notify:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Send latest signals-log entry to Telegram
+        env:
+          TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+          TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
+        run: |
+          set -euo pipefail
+
+          if [ ! -f signals-log.md ]; then
+            echo "signals-log.md not found, nothing to send"
+            exit 0
+          fi
+
+          # Extract the last "## " section (most recent entry) from the log.
+          entry="$(tac signals-log.md | awk '/^## /{print; exit} {print}' | tac)"
+
+          # Telegram messages are capped at 4096 chars; leave headroom.
+          max_len=3800
+          if [ "${#entry}" -gt "$max_len" ]; then
+            entry="${entry:0:$max_len}"$'\n\n[...обрезано, полный текст в signals-log.md...]'
+          fi
+
+          curl -sS -X POST "https://api.telegram.org/bot${TELEGRAM_BOT_TOKEN}/sendMessage" \
+            --data-urlencode "chat_id=${TELEGRAM_CHAT_ID}" \
+            --data-urlencode "text=${entry}" \
+            -o /tmp/telegram_response.json
+
+          cat /tmp/telegram_response.json
+          # Fail the job if Telegram reports an error, so it's visible in Actions.
+          python3 -c "import json,sys; d=json.load(open('/tmp/telegram_response.json')); sys.exit(0 if d.get('ok') else 1)"
