@@ -1,0 +1,9 @@
+[
+  {"date": "2026-07-01", "item": "AK-47 | Ice Coaled (Field-Tested)", "price": 5.72, "price_type": "median", "note": "lowest_price unavailable (no active listings returned)"},
+  {"date": "2026-07-01", "item": "AWP | Duality (Field-Tested)", "price": 4.45, "price_type": "lowest"},
+  {"date": "2026-07-01", "item": "USP-S | Ticket to Hell (Field-Tested)", "price": 0.86, "price_type": "lowest"},
+  {"date": "2026-07-01", "item": "Recoil Case", "price": 0.49, "price_type": "lowest"},
+  {"date": "2026-07-01", "item": "Revolution Case", "price": 0.36, "price_type": "lowest"},
+  {"date": "2026-07-01", "item": "Fracture Case", "price": 0.80, "price_type": "lowest"},
+  {"date": "2026-07-01", "item": "Snakebite Case", "price": 0.74, "price_type": "lowest"}
+]
