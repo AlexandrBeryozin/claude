@@ -1,0 +1,8 @@
+[
+  {"date": "2026-07-01", "item": "Galil AR | Green Apple (Factory New)", "price": 0.80, "price_type": "median_price", "note": "lowest_price недоступен (нет активных лотов на момент запроса)"},
+  {"date": "2026-07-01", "item": "Glock-18 | Green Line (Field-Tested)", "price": 0.70, "price_type": "lowest_price"},
+  {"date": "2026-07-01", "item": "USP-S | Alpine Camo (Field-Tested)", "price": 0.54, "price_type": "lowest_price"},
+  {"date": "2026-07-01", "item": "Galil AR | Crimson Tsunami (Field-Tested)", "price": 2.54, "price_type": "lowest_price"},
+  {"date": "2026-07-01", "item": "SSG 08 | Memorial (Field-Tested)", "price": 0.11, "price_type": "lowest_price"},
+  {"date": "2026-07-01", "item": "Galil AR | Sage Spray (Field-Tested)", "price": 0.04, "price_type": "lowest_price"}
+]
