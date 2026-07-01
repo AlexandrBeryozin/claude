@@ -1,0 +1,9 @@
+[
+  {"date": "2026-07-01", "item": "Galil AR | Crimson Tsunami (Field-Tested)", "price": 2.85, "note": "median_price, lowest_price not returned by API"},
+  {"date": "2026-07-01", "item": "Five-SeveN | Heat Treated (Field-Tested)", "price": 4.67, "note": "lowest_price"},
+  {"date": "2026-07-01", "item": "UMP-45 | Crimson Foil (Field-Tested)", "price": 4.80, "note": "lowest_price"},
+  {"date": "2026-07-01", "item": "MP5-SD | Savannah Halftone (Field-Tested)", "price": 0.19, "note": "lowest_price"},
+  {"date": "2026-07-01", "item": "Glock-18 | AXIA (Field-Tested)", "price": 44.07, "note": "lowest_price, excluded by $5 hard filter"},
+  {"date": "2026-07-01", "item": "MAC-10 | Candy Apple (Minimal Wear)", "price": 0.52, "note": "lowest_price"},
+  {"date": "2026-07-01", "item": "AWP | Acheron (Field-Tested)", "price": 1.07, "note": "median_price, lowest_price not returned by API"}
+]
