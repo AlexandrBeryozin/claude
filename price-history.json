@@ -1,0 +1,23 @@
+[
+  {
+    "date": "2026-07-01",
+    "item": "Sealed Dead Hand Terminal",
+    "price": 1.62,
+    "price_type": "median_price",
+    "source": "steamcommunity priceoverview"
+  },
+  {
+    "date": "2026-07-01",
+    "item": "Souvenir MP9 | Storm (Field-Tested)",
+    "price": 0.51,
+    "price_type": "lowest_price",
+    "source": "steamcommunity priceoverview"
+  },
+  {
+    "date": "2026-07-01",
+    "item": "Souvenir Nova | Predator (Field-Tested)",
+    "price": 0.32,
+    "price_type": "lowest_price",
+    "source": "steamcommunity priceoverview"
+  }
+]

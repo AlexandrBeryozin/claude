@@ -1,0 +1,1 @@
+unknown (no prior record; Steam inventory endpoint returned HTTP 403 on 2026-07-01, wallet balance could not be verified)
