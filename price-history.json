@@ -1,0 +1,50 @@
+[
+  {
+    "date": "2026-07-02",
+    "item": "P90 | Storm (Field-Tested)",
+    "price_usd": 3.00,
+    "source": "lowest_price"
+  },
+  {
+    "date": "2026-07-02",
+    "item": "P90 | Storm (Minimal Wear)",
+    "price_usd": 4.35,
+    "source": "median_price (lowest_price отсутствовал, volume=2 - низкая ликвидность)"
+  },
+  {
+    "date": "2026-07-02",
+    "item": "Dual Berettas | Flora Carnivora (Field-Tested)",
+    "price_usd": 0.60,
+    "source": "lowest_price"
+  },
+  {
+    "date": "2026-07-02",
+    "item": "Dual Berettas | Flora Carnivora (Minimal Wear)",
+    "price_usd": 1.41,
+    "source": "lowest_price"
+  },
+  {
+    "date": "2026-07-02",
+    "item": "AK-47 | Breakthrough (Field-Tested)",
+    "price_usd": 3.64,
+    "source": "lowest_price"
+  },
+  {
+    "date": "2026-07-02",
+    "item": "M4A1-S | Emphorosaur-S (Field-Tested)",
+    "price_usd": 0.66,
+    "source": "median_price (lowest_price отсутствовал)"
+  },
+  {
+    "date": "2026-07-02",
+    "item": "AWP | Duality (Field-Tested)",
+    "price_usd": 4.57,
+    "source": "lowest_price"
+  },
+  {
+    "date": "2026-07-02",
+    "item": "USP-S | Ticket to Hell (Field-Tested)",
+    "price_usd": 0.87,
+    "source": "median_price (lowest_price отсутствовал)"
+  }
+]
