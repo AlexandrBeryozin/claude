@@ -1,0 +1,10 @@
+[
+  {"date": "2026-07-02", "item": "MP9 | Arctic Tri-Tone (Field-Tested)", "price_usd": 4.83, "median_usd": 4.72, "volume": 138},
+  {"date": "2026-07-02", "item": "UMP-45 | Crimson Foil (Field-Tested)", "price_usd": 4.72, "median_usd": 4.50, "volume": 121},
+  {"date": "2026-07-02", "item": "MAC-10 | Derailment (Field-Tested)", "price_usd": 4.22, "median_usd": 4.23, "volume": 103},
+  {"date": "2026-07-02", "item": "Five-SeveN | Heat Treated (Field-Tested)", "price_usd": 4.89, "median_usd": 4.83, "volume": 74},
+  {"date": "2026-07-02", "item": "Galil AR | Crimson Tsunami (Field-Tested)", "price_usd": 2.49, "median_usd": 2.29, "volume": 49},
+  {"date": "2026-07-02", "item": "Galil AR | Crimson Tsunami (Minimal Wear)", "price_usd": 4.56, "median_usd": 4.53, "volume": 32},
+  {"date": "2026-07-02", "item": "StatTrak™ Galil AR | Crimson Tsunami (Field-Tested)", "price_usd": 4.74, "median_usd": 4.30, "volume": 14},
+  {"date": "2026-07-02", "item": "Tec-9 | Whiteout (Field-Tested)", "price_usd": 6.59, "median_usd": 6.59, "volume": 129, "note": "excluded by $5 filter, logged for context only"}
+]
