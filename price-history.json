@@ -1,0 +1,478 @@
+[
+  {
+    "date": "2026-07-06",
+    "item": "10 Year Birthday Coin",
+    "price": null,
+    "source": "priceoverview",
+    "context": "inventory"
+  },
+  {
+    "date": "2026-07-06",
+    "item": "2020 RMR Contenders",
+    "price": 0.36,
+    "source": "priceoverview",
+    "context": "inventory"
+  },
+  {
+    "date": "2026-07-06",
+    "item": "2022 Service Medal",
+    "price": null,
+    "source": "priceoverview",
+    "context": "inventory"
+  },
+  {
+    "date": "2026-07-06",
+    "item": "2023 Service Medal",
+    "price": null,
+    "source": "priceoverview",
+    "context": "inventory"
+  },
+  {
+    "date": "2026-07-06",
+    "item": "2025 Service Medal",
+    "price": null,
+    "source": "priceoverview",
+    "context": "inventory"
+  },
+  {
+    "date": "2026-07-06",
+    "item": "AK-47 | Slate (Well-Worn)",
+    "price": 5.19,
+    "source": "priceoverview",
+    "context": "inventory"
+  },
+  {
+    "date": "2026-07-06",
+    "item": "Active Genesis Terminal",
+    "price": null,
+    "source": "priceoverview",
+    "context": "inventory"
+  },
+  {
+    "date": "2026-07-06",
+    "item": "Budapest 2025 Silver Coin",
+    "price": null,
+    "source": "priceoverview",
+    "context": "inventory"
+  },
+  {
+    "date": "2026-07-06",
+    "item": "C4 Explosive",
+    "price": null,
+    "source": "priceoverview",
+    "context": "inventory"
+  },
+  {
+    "date": "2026-07-06",
+    "item": "Charm Detachment Pack",
+    "price": null,
+    "source": "priceoverview",
+    "context": "inventory"
+  },
+  {
+    "date": "2026-07-06",
+    "item": "Desert Eagle | Mecha Industries (Field-Tested)",
+    "price": 8.1,
+    "source": "priceoverview",
+    "context": "inventory"
+  },
+  {
+    "date": "2026-07-06",
+    "item": "Dual Berettas | Flora Carnivora (Well-Worn)",
+    "price": 0.47,
+    "source": "priceoverview",
+    "context": "inventory"
+  },
+  {
+    "date": "2026-07-06",
+    "item": "Dual Berettas | Polished Malachite (Battle-Scarred)",
+    "price": 0.04,
+    "source": "priceoverview",
+    "context": "inventory"
+  },
+  {
+    "date": "2026-07-06",
+    "item": "Dual Berettas | Polished Malachite (Field-Tested)",
+    "price": 0.06,
+    "source": "priceoverview",
+    "context": "inventory"
+  },
+  {
+    "date": "2026-07-06",
+    "item": "FAMAS | Grey Ghost (Field-Tested)",
+    "price": 0.03,
+    "source": "priceoverview",
+    "context": "inventory"
+  },
+  {
+    "date": "2026-07-06",
+    "item": "FAMAS | Meow 36 (Well-Worn)",
+    "price": 0.1,
+    "source": "priceoverview",
+    "context": "inventory"
+  },
+  {
+    "date": "2026-07-06",
+    "item": "FAMAS | Palm (Minimal Wear)",
+    "price": 0.03,
+    "source": "priceoverview",
+    "context": "inventory"
+  },
+  {
+    "date": "2026-07-06",
+    "item": "Galil AR | Tuxedo (Minimal Wear)",
+    "price": 2.89,
+    "source": "priceoverview",
+    "context": "inventory"
+  },
+  {
+    "date": "2026-07-06",
+    "item": "Global Offensive Badge",
+    "price": null,
+    "source": "priceoverview",
+    "context": "inventory"
+  },
+  {
+    "date": "2026-07-06",
+    "item": "Graffiti | 8-Ball (Princess Pink)",
+    "price": null,
+    "source": "priceoverview",
+    "context": "inventory"
+  },
+  {
+    "date": "2026-07-06",
+    "item": "Graffiti | Backstab (Cash Green)",
+    "price": null,
+    "source": "priceoverview",
+    "context": "inventory"
+  },
+  {
+    "date": "2026-07-06",
+    "item": "Graffiti | Lambda (Tiger Orange)",
+    "price": null,
+    "source": "priceoverview",
+    "context": "inventory"
+  },
+  {
+    "date": "2026-07-06",
+    "item": "Graffiti | Sheriff (Cash Green)",
+    "price": null,
+    "source": "priceoverview",
+    "context": "inventory"
+  },
+  {
+    "date": "2026-07-06",
+    "item": "Graffiti | Sorry (Blood Red)",
+    "price": null,
+    "source": "priceoverview",
+    "context": "inventory"
+  },
+  {
+    "date": "2026-07-06",
+    "item": "Graffiti | Sorry (Monster Purple)",
+    "price": null,
+    "source": "priceoverview",
+    "context": "inventory"
+  },
+  {
+    "date": "2026-07-06",
+    "item": "Graffiti | Tombstone (Desert Amber)",
+    "price": null,
+    "source": "priceoverview",
+    "context": "inventory"
+  },
+  {
+    "date": "2026-07-06",
+    "item": "Graffiti | X-Axes (Tracer Yellow)",
+    "price": null,
+    "source": "priceoverview",
+    "context": "inventory"
+  },
+  {
+    "date": "2026-07-06",
+    "item": "M249 | Sage Camo (Minimal Wear)",
+    "price": 0.03,
+    "source": "priceoverview",
+    "context": "inventory"
+  },
+  {
+    "date": "2026-07-06",
+    "item": "M4A1-S | Electrum (Field-Tested)",
+    "price": 2.07,
+    "source": "priceoverview",
+    "context": "inventory"
+  },
+  {
+    "date": "2026-07-06",
+    "item": "M4A4 | Converter (Minimal Wear)",
+    "price": 1.79,
+    "source": "priceoverview",
+    "context": "inventory"
+  },
+  {
+    "date": "2026-07-06",
+    "item": "MAC-10 | Monkeyflage (Battle-Scarred)",
+    "price": 0.1,
+    "source": "priceoverview",
+    "context": "inventory"
+  },
+  {
+    "date": "2026-07-06",
+    "item": "MAC-10 | Silver (Factory New)",
+    "price": 0.51,
+    "source": "priceoverview",
+    "context": "inventory"
+  },
+  {
+    "date": "2026-07-06",
+    "item": "MAC-10 | Snow Splash (Field-Tested)",
+    "price": 0.03,
+    "source": "priceoverview",
+    "context": "inventory"
+  },
+  {
+    "date": "2026-07-06",
+    "item": "MP5-SD | Picnic (Field-Tested)",
+    "price": 0.05,
+    "source": "priceoverview",
+    "context": "inventory"
+  },
+  {
+    "date": "2026-07-06",
+    "item": "MP7 | Short Ochre (Minimal Wear)",
+    "price": 0.07,
+    "source": "priceoverview",
+    "context": "inventory"
+  },
+  {
+    "date": "2026-07-06",
+    "item": "MP9 | Buff Blue (Factory New)",
+    "price": 0.15,
+    "source": "priceoverview",
+    "context": "inventory"
+  },
+  {
+    "date": "2026-07-06",
+    "item": "Music Kit | Selective Response, No Love Only Pleasure",
+    "price": 2.25,
+    "source": "priceoverview",
+    "context": "inventory"
+  },
+  {
+    "date": "2026-07-06",
+    "item": "Music Kit | Valve, CS:GO",
+    "price": null,
+    "source": "priceoverview",
+    "context": "inventory"
+  },
+  {
+    "date": "2026-07-06",
+    "item": "Premier Season One Medal",
+    "price": null,
+    "source": "priceoverview",
+    "context": "inventory"
+  },
+  {
+    "date": "2026-07-06",
+    "item": "Premier Season Three Medal",
+    "price": null,
+    "source": "priceoverview",
+    "context": "inventory"
+  },
+  {
+    "date": "2026-07-06",
+    "item": "Premier Season Two Medal",
+    "price": null,
+    "source": "priceoverview",
+    "context": "inventory"
+  },
+  {
+    "date": "2026-07-06",
+    "item": "Prisma Case",
+    "price": 2.07,
+    "source": "priceoverview",
+    "context": "inventory"
+  },
+  {
+    "date": "2026-07-06",
+    "item": "R8 Revolver | Mauve Aside (Field-Tested)",
+    "price": 0.03,
+    "source": "priceoverview",
+    "context": "inventory"
+  },
+  {
+    "date": "2026-07-06",
+    "item": "Revolution Case",
+    "price": 0.38,
+    "source": "priceoverview",
+    "context": "inventory"
+  },
+  {
+    "date": "2026-07-06",
+    "item": "SSG 08 | Acid Fade (Factory New)",
+    "price": 1.36,
+    "source": "priceoverview",
+    "context": "inventory"
+  },
+  {
+    "date": "2026-07-06",
+    "item": "StatTrak™ Glock-18 | Bunsen Burner (Minimal Wear)",
+    "price": 3.91,
+    "source": "priceoverview",
+    "context": "inventory"
+  },
+  {
+    "date": "2026-07-06",
+    "item": "StatTrak™ MAG-7 | Insomnia (Well-Worn)",
+    "price": 0.09,
+    "source": "priceoverview",
+    "context": "inventory"
+  },
+  {
+    "date": "2026-07-06",
+    "item": "Sticker | Cypher | Paris 2023",
+    "price": 0.03,
+    "source": "priceoverview",
+    "context": "inventory"
+  },
+  {
+    "date": "2026-07-06",
+    "item": "Sticker | Kylar | Paris 2023",
+    "price": 0.03,
+    "source": "priceoverview",
+    "context": "inventory"
+  },
+  {
+    "date": "2026-07-06",
+    "item": "Sticker | Natus Vincere | Budapest 2025",
+    "price": 0.03,
+    "source": "priceoverview",
+    "context": "inventory"
+  },
+  {
+    "date": "2026-07-06",
+    "item": "Sticker | mezii | Paris 2023",
+    "price": 0.03,
+    "source": "priceoverview",
+    "context": "inventory"
+  },
+  {
+    "date": "2026-07-06",
+    "item": "Storage Unit",
+    "price": null,
+    "source": "priceoverview",
+    "context": "inventory"
+  },
+  {
+    "date": "2026-07-06",
+    "item": "Tec-9 | Slag (Minimal Wear)",
+    "price": 0.23,
+    "source": "priceoverview",
+    "context": "inventory"
+  },
+  {
+    "date": "2026-07-06",
+    "item": "USP-S | Royal Guard (Field-Tested)",
+    "price": 0.84,
+    "source": "priceoverview",
+    "context": "inventory"
+  },
+  {
+    "date": "2026-07-06",
+    "item": "XM1014 | XoooM (Field-Tested)",
+    "price": 0.04,
+    "source": "priceoverview",
+    "context": "inventory"
+  },
+  {
+    "date": "2026-07-06",
+    "item": "AK-47 | Breakthrough (Field-Tested)",
+    "price": 3.56,
+    "source": "priceoverview",
+    "context": "candidate"
+  },
+  {
+    "date": "2026-07-06",
+    "item": "AK-47 | Breakthrough (Well-Worn)",
+    "price": 3.45,
+    "source": "priceoverview",
+    "context": "candidate"
+  },
+  {
+    "date": "2026-07-06",
+    "item": "AK-47 | Breakthrough (Battle-Scarred)",
+    "price": 2.84,
+    "source": "priceoverview",
+    "context": "candidate"
+  },
+  {
+    "date": "2026-07-06",
+    "item": "Galil AR | Green Apple (Factory New)",
+    "price": 0.77,
+    "source": "priceoverview",
+    "context": "candidate"
+  },
+  {
+    "date": "2026-07-06",
+    "item": "Glock-18 | Trace Lock (Minimal Wear)",
+    "price": 4.0,
+    "source": "priceoverview",
+    "context": "candidate"
+  },
+  {
+    "date": "2026-07-06",
+    "item": "Glock-18 | Trace Lock (Field-Tested)",
+    "price": 1.93,
+    "source": "priceoverview",
+    "context": "candidate"
+  },
+  {
+    "date": "2026-07-06",
+    "item": "M4A4 | Aeolian Dark (Field-Tested)",
+    "price": 0.04,
+    "source": "priceoverview",
+    "context": "candidate"
+  },
+  {
+    "date": "2026-07-06",
+    "item": "M4A4 | Aeolian Dark (Minimal Wear)",
+    "price": 0.1,
+    "source": "priceoverview",
+    "context": "candidate"
+  },
+  {
+    "date": "2026-07-06",
+    "item": "Tec-9 | Whiteout (Field-Tested)",
+    "price": 6.63,
+    "source": "priceoverview",
+    "context": "candidate"
+  },
+  {
+    "date": "2026-07-06",
+    "item": "MP9 | Latte Rush (Field-Tested)",
+    "price": 29.0,
+    "source": "priceoverview",
+    "context": "candidate"
+  },
+  {
+    "date": "2026-07-06",
+    "item": "USP-S | Alpine Camo (Field-Tested)",
+    "price": 0.57,
+    "source": "priceoverview",
+    "context": "candidate"
+  },
+  {
+    "date": "2026-07-06",
+    "item": "UMP-45 | Crimson Foil (Field-Tested)",
+    "price": 4.94,
+    "source": "priceoverview",
+    "context": "candidate"
+  },
+  {
+    "date": "2026-07-06",
+    "item": "MP9 | Arctic Tri-Tone (Field-Tested)",
+    "price": 5.06,
+    "source": "priceoverview",
+    "context": "candidate"
+  }
+]
